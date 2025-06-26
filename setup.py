@@ -17,7 +17,7 @@ setup(
         install_requires=[
             'numpy',
             'pandas',
-            'louvain',
+            #'louvain',
             'scikit-learn',
             'psutil',
             'scanpy'],
